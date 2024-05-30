@@ -1,0 +1,1 @@
+# UFLA-PPC-paralelizacao-regra-trapezio
